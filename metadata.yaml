@@ -1,0 +1,41 @@
+_repo: The-Pool-in-the-Desert_1168
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Duncan, Sara Jeannette
+    aliases:
+    - Cotes, V. Cecil
+    - Cotes, Mrs. Everard
+    - Cotes, Everard, Mrs.
+    - Grafton, Garth
+    - Wintergreen, Jane
+    birthdate: 1861
+    deathdate: 1922
+    gutenberg_agent_id: '542'
+    url: http://www.gutenberg.org/2009/agents/542
+    wikipedia: http://en.wikipedia.org/wiki/Sara_Jeannette_Duncan
+description: There were times when we had to go without puddings to pay John's uniform
+  bills, and always I did the facings myself with a cloth-ball to save getting new
+  ones. I would have polished his sword, too, if I had been allowed; I adored his
+  sword. And once, I remember, we painted and varnished our own dog-cart, and very
+  smart it looked, to save fifty rupees. We had nothing but our pay John had his company
+  when we were married, but what is that? and life was made up of small knowing economies,
+  much more amusing in recollection than in practise.
+gutenberg_issued: '1998-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1168'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'British -- India -- Fiction'
+- !lcsh 'India -- Social life and customs -- Fiction'
+- !lcsh 'Women -- India -- Fiction'
+- GITenberg
+tableOfContents: A mother in India -- An impossible ideal -- The hesitation of Miss
+  Anderson -- The pool in the desert.
+title: The Pool in the Desert
+url: http://www.gutenberg.org/ebooks/1168
