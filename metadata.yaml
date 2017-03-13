@@ -1,5 +1,8 @@
 _repo: The-Pool-in-the-Desert_1168
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Duncan, Sara Jeannette
@@ -21,6 +24,8 @@ description: There were times when we had to go without puddings to pay John's u
   smart it looked, to save fifty rupees. We had nothing but our pay John had his company
   when we were married, but what is that? and life was made up of small knowing economies,
   much more amusing in recollection than in practise.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1168#The-Pool-in-the-Desert
 gutenberg_issued: '1998-01-01'
 gutenberg_type: Text
 identifiers:
